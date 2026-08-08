@@ -150,15 +150,36 @@ Applying machine learning concepts to real internship tasks and deliverables.
 
 ## 🏆 Achievements
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-| Recognition | Details |
-|---|---|
-| 💻 **PM Laptop Scheme 2025/2026** | Awarded a laptop under Pakistan's merit-based PM Laptop Scheme |
-| 🎓 **Merit-Based Scholarship — 1st Semester** | Awarded for academic merit, BS Information Technology |
-| 🎓 **Merit-Based Scholarship — 4th Semester** | Awarded for academic merit, BS Information Technology |
+### 💻 PM Laptop Scheme 2025/2026
+Awarded a laptop under Pakistan's merit-based PM Laptop Scheme, recognizing academic performance nationwide.
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Merit-Based Scholarship
+Awarded **twice** for academic merit in BS Information Technology — 1st Semester & 4th Semester.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤝 3 Internship Offers Secured
+Received simultaneous offer letters from **Code Alpha**, **Decode Labs**, and **Progree** for AI/ML-focused remote internships.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Google AI Professional Certificate
+Completed all **7 courses** of Google's AI Professional Certificate program on Coursera.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -166,10 +187,27 @@ Applying machine learning concepts to real internship tasks and deliverables.
 
 ## 📜 Certifications
 
-**Coursera**
+<table align="center">
+<tr>
+<th>Provider</th>
+<th>Certificate</th>
+<th>Status</th>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/ibm/052FAD" width="28"/> <b>IBM</b></td>
+<td>Introduction to Cybersecurity Essentials</td>
+<td align="center">🏅 With Honors</td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/google/4285F4" width="28"/> <b>Google</b></td>
+<td>AI Professional Certificate — 7 Courses</td>
+<td align="center">✅ Completed</td>
+</tr>
+</table>
 
-![IBM](https://img.shields.io/badge/IBM-Introduction_to_Cybersecurity_Essentials_(With_Honors)-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![Google](https://img.shields.io/badge/Google-AI_Professional_Certificate_(7_Courses)-4285F4?style=flat-square&logo=google&logoColor=white)
+<div align="center">
+<sub>Issued via Coursera</sub>
+</div>
 
 <br/>
 
