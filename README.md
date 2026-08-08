@@ -1,25 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abdullah%20Bashir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Enthusiast%20%7C%20Software%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Abdullah%20Bashir&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Aspiring%20AI%2FML%20Engineer&descAlignY=48&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+%2F+ML+Systems;Exploring+Explainable+AI+(XAI);Full+Stack+%2B+Data-Driven+Development;Open+to+Remote+AI%2FML+Internships" alt="Typing SVG" /></a>
+<i>Turning curiosity about data into systems that think, explain, and improve.</i>
 
-<br/>
+<br/><br/>
 
-![Academic Badge](https://img.shields.io/badge/BS_Information_Technology-6th_Semester-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Gujrat,_Pakistan-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Learning+Machine+Learning+%2B+Explainable+AI;Building+Real-World+ML+Projects+from+Scratch;BS+Information+Technology+Student;Open+to+Remote+AI%2FML+Internships" alt="Typing SVG" /></a>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-bashir-8a06a1421)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahbutt199776@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdullahButt18)
+<img src="https://img.shields.io/badge/🎓_BS_Information_Technology-6th_Semester-1e1b2e?style=for-the-badge&labelColor=6D28D9"/>
+<img src="https://img.shields.io/badge/📍_Gujrat-Pakistan-1e1b2e?style=for-the-badge&labelColor=4C1D95"/>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbdullahButt18&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/AbdullahButt18?color=7c3aed&style=for-the-badge&label=FOLLOWERS&labelColor=1e1b2e)
-![Stars](https://img.shields.io/github/stars/AbdullahButt18?color=6d28d9&style=for-the-badge&label=STARS&labelColor=1e1b2e)
+<a href="https://www.linkedin.com/in/abdullah-bashir-8a06a1421"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-1e1b2e?style=for-the-badge&logo=linkedin&logoColor=8B5CF6&labelColor=1e1b2e"/></a>
+<a href="mailto:abdullahbutt199776@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-1e1b2e?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=1e1b2e"/></a>
+<a href="https://github.com/AbdullahButt18"><img src="https://img.shields.io/badge/GitHub-Follow_along-1e1b2e?style=for-the-badge&logo=github&logoColor=C4B5FD&labelColor=1e1b2e"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AbdullahButt18&color=8b5cf6&style=flat-square&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/AbdullahButt18?color=7c3aed&style=flat-square&label=Followers&labelColor=1e1b2e"/>
+<img src="https://img.shields.io/github/stars/AbdullahButt18?color=6d28d9&style=flat-square&label=Stars&labelColor=1e1b2e"/>
 
 </div>
 
@@ -27,13 +31,13 @@
 
 ## 🧬 About Me
 
-I'm **Abdullah Bashir**, a Bachelor of Science in Information Technology student based in Gujrat, Pakistan, currently in my 6th semester with a strong and growing focus on **AI/ML and data-driven software engineering**.
+I'm **Abdullah Bashir**, a Bachelor of Science in Information Technology student based in Gujrat, Pakistan, currently in my 6th semester and working toward becoming an **AI/ML Engineer**.
 
-My foundation spans **C++, Python, OOP, and Assembly**, with hands-on experience building **full desktop applications** (C#/WPF/XAML connected to SQL Server) and **web-integrated systems** (PHP + MySQL). I'm now actively transitioning into the AI/ML space — working through **Pandas and NumPy**, with **Matplotlib, scikit-learn, and deeper ML/AI systems** as my next milestones.
+My programming foundation spans **C++, Python, OOP, and Assembly**, built through hands-on projects like a **desktop library management system** (C#/WPF/XAML + SQL Server) and **web-integrated apps** (PHP + MySQL). I'm now moving deeper into AI/ML — working through **Pandas and NumPy**, with **Matplotlib, scikit-learn, and deep learning/GenAI** next on my roadmap.
 
-My first serious AI project — an **Explainable Machine Learning system for depression detection** — reflects how I approach engineering: not just building a model that works, but understanding *why* it works, catching data leakage bugs, calibrating confidence scores properly, and explaining predictions with LIME rather than treating models as black boxes.
+My first serious step into AI was an **Explainable Machine Learning system for depression detection**, and it shaped how I think about ML: not just training a model that scores well, but understanding *why* it makes each prediction — catching a real data-leakage bug during development, calibrating confidence scores properly, and using LIME so predictions are interpretable rather than a black box.
 
-**🎯 Open To:** Remote AI/ML Internships · Machine Learning Projects · Collaboration on Explainable AI · Full Stack + Data Engineering Roles
+**🎯 Currently:** Interning across AI, Generative AI, and Machine Learning roles · Open to remote AI/ML opportunities and collaboration
 
 <br/>
 
